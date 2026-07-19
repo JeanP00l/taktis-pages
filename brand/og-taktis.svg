@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#070b0d"/><stop offset="100%" stop-color="#11191d"/></linearGradient>
+    <linearGradient id="image-fade" x1="0%" y1="0%" x2="100%" y2="0%"><stop stop-color="#090e11"/><stop offset="55%" stop-color="#090e11" stop-opacity=".72"/><stop offset="100%" stop-color="#090e11" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#75f5e4" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/><rect width="1200" height="630" fill="url(#grid)"/>
+  <g transform="translate(78 80)"><path d="M0 0h62v18H40v58H20V18H0z" fill="#f4f7f5"/><path d="M52 30h18v18H52z" fill="#ff9a45"/></g>
+  <image href="glove-static.webp" x="590" y="0" width="630" height="630" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="520" y="0" width="200" height="630" fill="url(#image-fade)"/>
+  <text x="78" y="238" fill="#f4f7f5" font-family="Arial,sans-serif" font-size="86" font-weight="700" letter-spacing="2px">TAKTIS</text>
+  <text x="82" y="318" fill="#56e6d4" font-family="Arial,sans-serif" font-size="42" font-weight="700">ОТ ДВИЖЕНИЯ</text>
+  <text x="82" y="368" fill="#56e6d4" font-family="Arial,sans-serif" font-size="42" font-weight="700">К ДАННЫМ.</text>
+  <text x="82" y="430" fill="#9daba9" font-family="Arial,sans-serif" font-size="23">Носимая сенсорика · проект СтС-608920</text>
+  <path d="M70 523H1130" stroke="#bfece5" stroke-opacity=".15"/><text x="82" y="565" fill="#73817f" font-family="Arial,sans-serif" font-size="17" letter-spacing="3px">WEARABLE MOTION INTELLIGENCE</text>
+</svg>
